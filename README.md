@@ -52,3 +52,10 @@ Using your mobile phone. Download Expo Go in Google Playstore
 Run the App then find the Scan QR Code. 
 Find the QR code where you run the "npx expo start". 
 Scan that Code using your Mobile Phone to run the Fersoil Mobile App
+
+
+Please Note: Made Sure that the Http in your code is the same in the terminal.
+
+![alt text](image.png)
+![alt text](image-1.png)
+

@@ -72,7 +72,7 @@ export default function DashboardScreen({ navigation }) {
         setLoading(true);
         try {
             const response = await axios.post(
-                "http://192.168.1.46:50000/predict",
+                "http://192.168.1.46:5000/predict",
                 formData,
                 {
                     headers: { "Content-Type": "multipart/form-data" },
